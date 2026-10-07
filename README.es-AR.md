@@ -9,7 +9,7 @@
 ![conciliacao-tabelas](assets/support/project-es-ar.svg)
 
 <!-- public-badges:start -->
-[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/conciliacao-tabelas/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/conciliacao-tabelas/releases)
+[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/conciliacao-tabelas/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/conciliacao-tabelas/releases) [![Git](assets/support/badge-git.svg)](https://github.com/Rdraim/conciliacao-tabelas/commits/main)
 <!-- public-badges:end -->
 
 <p>
