@@ -8,7 +8,9 @@
 
 ![conciliacao-tabelas](assets/support/project-en-us.svg)
 
-[![MIT](https://img.shields.io/github/license/Rdraim/conciliacao-tabelas?style=flat)](LICENSE) [![CI](https://img.shields.io/github/actions/workflow/status/Rdraim/conciliacao-tabelas/ci.yml?branch=main&label=CI&style=flat)](https://github.com/Rdraim/conciliacao-tabelas/actions) [![Release](https://img.shields.io/github/v/release/Rdraim/conciliacao-tabelas?style=flat)](https://github.com/Rdraim/conciliacao-tabelas/releases) [![Git](https://img.shields.io/github/last-commit/Rdraim/conciliacao-tabelas?label=Git&style=flat)](https://github.com/Rdraim/conciliacao-tabelas/commits/main) [![Stars](https://img.shields.io/github/stars/Rdraim/conciliacao-tabelas?style=social)](https://github.com/Rdraim/conciliacao-tabelas/stargazers) [![Forks](https://img.shields.io/github/forks/Rdraim/conciliacao-tabelas?style=social)](https://github.com/Rdraim/conciliacao-tabelas/forks)
+<!-- public-badges:start -->
+[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/conciliacao-tabelas/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/conciliacao-tabelas/releases) [![Git](assets/support/badge-git.svg)](https://github.com/Rdraim/conciliacao-tabelas/commits/main)
+<!-- public-badges:end -->
 
 <p>
   <a href="https://github.com/Rdraim/conciliacao-tabelas/tree/main/examples"><img src="assets/support/action-0-en-us.svg" height="40" width="200" alt="View examples"></a>
